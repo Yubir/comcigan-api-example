@@ -2,8 +2,10 @@
 제작은 내가 했어 임마.
 
 # API 사용 예시
+<p>
 https://api.hoo.gay/schedule/경기고등학교/1-1
 https://api.hoo.gay/school?search=경기
+ <\p>
 
 # 매우 사용하는데 느림
 5초 걸림 ㅋㅋ...
